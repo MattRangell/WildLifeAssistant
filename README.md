@@ -9,11 +9,11 @@ vários animais, bagas e outras plantas comestíveis que podem ser encontradas e
 programação orientada a objetos para representar as entidades no banco de dados, inclusive animais, frutas silvestres e locais.
 
 # Entidades: #
-   # Animais: # O sistema incluirá informações sobre vários animais que podem ser caçados, como veados, coelhos e peixes. Cada animal terá uma representação de objeto exclusiva que inclui suas características, habitat e técnicas de caça.
+   # Animais: O sistema incluirá informações sobre vários animais que podem ser caçados, como veados, coelhos e peixes. Cada animal terá uma representação de objeto exclusiva que inclui suas características, habitat e técnicas de caça.
     
-   # Frutas: # O sistema incluirá informações sobre várias frutas silvestres que podem ser coletadas, como mirtilos, framboesas e amoras. Cada fruta terá uma representação de objeto exclusiva que inclui suas características, habitat e valor nutricional.
+   # Frutas: O sistema incluirá informações sobre várias frutas silvestres que podem ser coletadas, como mirtilos, framboesas e amoras. Cada fruta terá uma representação de objeto exclusiva que inclui suas características, habitat e valor nutricional.
     
-   # Locais: # O sistema incluirá informações sobre vários locais onde os animais e as bagas podem ser encontrados, como florestas, campos e rios. Cada local terá uma representação de objeto exclusiva que inclui seu terreno, clima e os tipos de animais e bagas que podem ser encontrados lá.
+   # Locais: O sistema incluirá informações sobre vários locais onde os animais e as bagas podem ser encontrados, como florestas, campos e rios. Cada local terá uma representação de objeto exclusiva que inclui seu terreno, clima e os tipos de animais e bagas que podem ser encontrados lá.
  
 # Recursos: #
     
